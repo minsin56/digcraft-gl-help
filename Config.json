@@ -1,0 +1,11 @@
+﻿{
+  //window settings\\
+  "width": 1280,
+  "height": 720,
+  "fullscreen": false,
+  //---------------\\
+  //game settings\\
+  "fov": 60.0,
+  "playername": "mr poopy butthole"
+  //-------------\\
+}
